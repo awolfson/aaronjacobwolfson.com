@@ -1,18 +1,29 @@
 {
   "name": "aaronjacobwolfson.com",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "Aaron Wolfson's writings.",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "eleventy",
+    "watch": "eleventy --watch",
+    "serve": "eleventy --serve",
+    "debug": "DEBUG=* eleventy"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git://https://github.com/awolfson/aaronjacobwolfson.com.git"
+  },
+  "author": {
+    "name": "Aaron Wolfson",
+    "email": "awolfson0@gmail.com",
+    "url": "https://aaronjacobwolfson.com/"
+  },
+  "homepage": "https://github.com/awolfson/aaronjacobwolfson.com",
   "devDependencies": {
-    "@11ty/eleventy": "^0.9.0",
-    "acorn": ">=5.7.4",
-    "kind-of": ">=6.0.3",
-    "minimist": ">=1.2.3"
+    "@11ty/eleventy": "^0.10.0",
+    "@11ty/eleventy-navigation": "^0.1.3",
+    "@11ty/eleventy-plugin-syntaxhighlight": "^3.0.1",
+    "luxon": "^1.21.3",
+    "markdown-it": "^8.4.2",
+    "markdown-it-anchor": "^5.2.5"
   }
 }

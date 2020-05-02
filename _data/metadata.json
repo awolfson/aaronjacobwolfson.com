@@ -1,0 +1,15 @@
+{
+  "title": "Aaron Jacob Wolfson",
+  "url": "https://aaronjacobwolfson.com/",
+  "description": "Aaron Wolfson's writings.",
+  "feed": {
+    "subtitle": "Aaron Wolfson's writings.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "id": "https://v.com/"
+  },
+  "author": {
+    "name": "Aaron Wolfson",
+    "email": "awolfson0@gmail.com"
+  }
+}
