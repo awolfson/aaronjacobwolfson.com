@@ -1,0 +1,14 @@
+<ol reversed class="wordlist" style="counter-reset: start-from {{ (wordslistCounter or wordslist.length) + 1 }}">
+{% for word in wordslist | reverse %}
+  <li class="wordlist-item{% if word.url == url %} wordlist-item-active{% endif %}">
+    <a href="{{ word.url | url }}" class="wordlist-link">{% if word.data.title %}{{ word.data.title }}{% else %}<code>{{ word.url }}</code>{% endif %}</a>
+    <time class="wordlist-date" datetime="{{ word.date | htmlDateString }}">{{ word.date | readableDate }}</time>
+    {% for tag in word.data.tags %}
+      {%- if collections.tagList.indexOf(tag) != -1 -%}
+      {% set tagUrl %}/tags/{{ tag }}/{% endset %}
+      <a href="{{ tagUrl | url }}" class="tag">{{ tag }}</a>
+      {%- endif -%}
+    {% endfor %}
+  </li>
+{% endfor %}
+</ol>
