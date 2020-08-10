@@ -1,3 +1,12 @@
+<!doctype html>
+<html lang="en">
+  <head>
+
+    <link rel="stylesheet" href="/css/index.css">
+
+  </head>
+  <body>
+<p>
 One of the reasons psychoanalysts deserve their fees is that they have to listen to other people’s dreams.
 
 “Tell a dream, lose a reader,” Henry James (allegedly) advised young writers. Vivid dreams are absolutely fascinating to the people who have had them. But once you extract these phantasms from the inside of your head and try to put them into words, they very quickly fade into tedium, like delicate ancient frescoes exposed to light. Or like Brexit.
@@ -14,7 +23,7 @@ I have never (yet) dropped acid but those who have talk of staring for hours at 
 
 Were it not for Brexit, for example, I would never have known of the existence of the British Timber Packaging and Pallet Confederation. If you close your eyes and try to conjure it as an image, all you can see is an endless screen of beige. If you want to clear some space around yourself at a crowded party, just say “Actually, I work for the British Timber Packaging and Pallet Confederation…” 
 
- But, in the dreamworld of Brexit, the concerns of the makers of wooden pallets suddenly become momentous.It’s all about ISPM-15. (The rest of this paragraph works best if you read it to yourself in the voice of the Boring Priest from Father Ted.) Untreated wood packaging material can harbour pests which cause serious economic and environmental harm. So the International Plant Protection Convention sets out regulations for what you have to do if you are exporting wooden packaging, most commonly the pallets on which goods are stacked for loading and unloading.
+But, in the dreamworld of Brexit, the concerns of the makers of wooden pallets suddenly become momentous. It’s all about ISPM-15. (The rest of this paragraph works best if you read it to yourself in the voice of the Boring Priest from Father Ted.) Untreated wood packaging material can harbour pests which cause serious economic and environmental harm. So the International Plant Protection Convention sets out regulations for what you have to do if you are exporting wooden packaging, most commonly the pallets on which goods are stacked for loading and unloading.
 
 There’s a 47-page explanatory document on regulation ISPM-15. It is exquisitely, lusciously, luxuriantly boring. But – spoiler alert – it comes down in the end to the requirement to bake your wooden pallets at 56 degrees Celsius for at least 30 minutes to kill the bugs.  
 
@@ -31,3 +40,4 @@ There is something wonderfully apt in this bathos. One of the attractions of Bre
 But who wants to be responsible for baked wooden pallets? That’s not what Dominic Cummings and Boris Johnson and Michael Gove and Rees-Mogg and the rest of them were put on earth to do. Responsibility is boring. Brexit is “done” and the rest is silence. 
 
 The old cliché about campaigning in poetry and governing in prose applies in a special way. Brexit’s campaigning is the bad poetry of Victorian patriotic verse. Its governance is the excruciating prose of ISPM-15. Bad dreams end up as nightmares of endless, overwhelming banality.   
+</p></body></html>
