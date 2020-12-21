@@ -37,7 +37,7 @@ This tough love felt demoralizing. It made me angry. I honestly don’t know eno
 
 I don’t know. But I remember what he said.
 
-----
+### Living the Questions
 
 >Be patient toward all that is unsolved in your heart and to try to love the questions themselves, like locked rooms and like books that are written in a very foreign tongue. Do not now seek the answers, which cannot be given you because you would not be able to live them. And the point is, to live everything. Live the questions now. Perhaps you will then gradually, without noticing it, live along some distant day into the answer. — **Rainer Maria Rilke**
 
@@ -67,7 +67,7 @@ Something that makes Manson interesting to me is that he sees himself as a popul
 
 And it turns out he, too, has some major problems with the self-help industry. He gave me the language to articulate what my problems with it actually were, and where I had been led astray.
 
-----
+### Bad and OK
 
 [Mark Manson contends](https://markmanson.net/self-help) that there are two main kinds of people who are drawn to self-help material: those who see themselves as fundamentally “bad” and want to become “OK,” and those who see themselves as already “OK” and want to become “great.”
 
