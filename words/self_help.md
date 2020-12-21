@@ -7,8 +7,6 @@ tags:
   - essay
 layout: layouts/word.njk
 ---
-## Self-Help
-
 It’s not that I thought I was a “bad” person. But I did think I needed to be fixed.
 
 I spent a lot of time in my 20s reading self-help material and following various self-improvement regimens. “Self-help” is a broad, fuzzy term, encompassing the gamut of motivational books and seminars, productivity systems, personality tests, more-or-less dubious spiritual and mystical theories, pop psychology, diet and workout trends, and even business and leadership material. I’m talking about books like _The 7 Habits of Highly Effective People_ and _You Are a Badass_, and productivity systems like Getting Things Done, and the Atkins diet, and Crossfit, and Strengthsfinder and Myers-Briggs, and pickup artists and the Law of Attraction.
