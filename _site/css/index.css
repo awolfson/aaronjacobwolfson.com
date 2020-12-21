@@ -31,6 +31,10 @@ p,
 .tmpl-word li {
   line-height: 1.45;
 }
+.tmpl-word {
+  display: flex;
+  justify-content: center;
+}
 a[href] {
   color: var(--blue);
 }
