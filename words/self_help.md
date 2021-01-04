@@ -127,6 +127,42 @@ A person can go on Extreme Makeover as many times as they want—if they fundame
 
 It may sound like I'm saying that going from Bad-to-OK is impossible. I'm not.
 
-_To be continued..._
+### You Are Not An Experiment
 
-----
+When I first read Manson’s Bad-to-OK and OK-to-Great theory of self-help, I was thrilled; it opened my eyes to a different way of interpreting many of my past experiences. It gave me language to explain how I was able to continue reading book after book and implementing system after system to improve my life, despite the fact that I always _felt like_ I was incapable of sticking to any of the changes I was making.
+
+I emphasize how I felt, because it was really only my _feelings_, and a set of beliefs beneath them, that never changed. Many of the self-help methods I adopted did improve my life, a lot. During one period I joined a Facebook community for fans of the financial literacy blogger Ramit Sethi, called Ramit’s Brain Trust. As I tend to do, I found my group-within-the-group, and as we talked about our personal goals, we discovered that we shared a desire to improve our physical fitness and nutrition.
+
+One of my friends in the group, a guy named Marc, was in the early stages of developing a health coaching business, and he offered us his services for free if we would beta-test his offering. He built a detailed plan for me, which included practicing intermittent fasting, eating more vegetables and protein, strictly controlling my macronutrient balance, and lifting weights. We tracked all of this in a custom spreadsheet and compared our progress with everyone else in the group.
+
+We created a supportive environment in which we talked for hours a day and encouraged each other to keep showing up for workouts and avoiding problem foods. The group’s engine burned hot for several months, but it gradually began to lose steam. I eventually abandoned intermittent fasting, stopped monitoring my macros, and allowed my gym membership to lapse. I had attempted several demanding lifestyle changes at once, and it’s not shocking that I didn’t stick to them all, especially once my group’s mutual admiration, which was really more of an infatuation, began to wear off.
+
+In many ways, though, these experiments succeeded: I lost weight, added muscle, improved my mental clarity, and attenuated my temptation to over-indulge in my various vices. Even after I ceased to follow Marc’s specific regimen, my overall fitness and nutrition habits remained far healthier than their previous baseline. And with my improved state of mind, I started other habits that also had compounding effects: I began reading books again for the first time since college—a lot of books—and I became a regular flosser for the first time ever.
+
+If my goal was to live better, I’d achieved that by pretty much any measure. But I didn’t see it that way at the time. I’ve only assembled the sturdy edifice of that previous paragraph out of seven years’ worth of hard-won bricks, prized one by one from individual journal reflections and therapy sessions.
+
+Let’s go back, though. How did I actually feel when I stopped doing intermittent fasting and lifting weights; when I went off my special diet; and when I lost touch with Marc and my other friends from the Brain Trust group? To the average observer, it probably appeared as though I had declared my experiments successful, and, having consolidated some new health habits, and with a sense of great satisfaction, reverted back to a more sustainable way of living. Maybe that’s even what happened. But I did not feel satisfied. I felt like I had failed to uphold my commitments. I felt like I had tried to become a different person, a better person, and failed. 
+
+In other words, I felt like I _was_ a failure. I must have felt that way before I even joined the Brain Trust or met Marc, before I even knew who Ramit Sethi was. And that hadn’t changed at all. I still felt that way.
+
+Clearly, it wasn’t true. _Experiments_ succeed and fail, according to the terms with which they are designed; not people. People just _are_.
+
+But since I didn’t know that yet, I approached the entire business of improving my health as a proxy strategy for trying to make _myself_ a success. It wasn’t about the program; it was about me. And that means that what attracted me to Ramit’s Brain Trust, and to Marc’s coaching business, was not their content, or their techniques, or even their wisdom. It was Ramit and Marc themselves. To become a success as a person, what I had to do was find other people who were successes, and do whatever it was they were doing. It didn’t matter what that was, as long as they had… I don’t know. That special indefinable _something_. Then—if I worked hard enough—I could also have that something.
+
+That is, to put it mildly, a high bar to clear. In fact, it’s impossible.
+
+Intermittent fasting, if you’re not familiar, means eating all of your food within a set six-hour or eight-hour interval, and eating nothing during the rest of the day. I don’t know if you’ve ever tried eating nothing until 1 p.m., but trust me, it’s not easy. And as far as I understand, the jury’s still out on how effective that is as an overall nutritional tactic. The point is, I didn’t look into it too hard; I just followed the program.
+
+To stick to that kind of a schedule, to learn how to set aside hunger for the first several hours of every day, one has to really be determined. That’s not the impossible part. I could have done that. However, it still wouldn’t have given me what I was seeking, because I wasn’t really looking for a new system to follow; I was looking for a new person to be. I wasn’t taking on a challenging diet from a belief in its efficacy, or even from a desire to achieve the promised benefits, but from the subconscious conviction that I needed to follow a leader—which really meant, deep down, a belief in my own inadequacy. Many successful intermittent fasters don’t even do it full-time. Falling off, then, was inevitable for me.
+
+But in accordance with the pattern I’d established, I instead interpreted falling off as further evidence of that inherent inadequacy. Perhaps it was my nature to be low—unless I could find another savior. Back on the hunt, then.
+
+Intermittent fasting was hard, but trying to be someone else was exhausting. Why didn’t I understand that, logically speaking, one of two things must be true: either I was very bad at evaluating who was actually a success; or something was fundamentally wrong with my basic assumptions? Well, I just didn’t think about it. Dissociation is a powerful thing.
+
+This is one reason why therapy works—dissociation is insidious, but it’s not invisible. A part of me knew what was happening all along, and longed to tell me so; I just wasn’t listening. By putting myself in a small room once a week with a trained expert, someone who knew how to match observed behavior with underlying mental pitfalls, and how to coax someone into developing deeper awareness of themselves, by building trust with that person and letting him into my psyche, I gave myself the space to hear what I needed to hear _from myself_.
+
+It was John, my therapist, who told me, “This stuff does not work for you;” but it was me who added, “Because you feel like you’re a failure.”
+
+Once I heard that, I was able to ask in response: “How do you know?” And then: “What if it’s not true?”
+
+Manson is right: a self-help industrial _product_ could never do that for someone. When it pretends that it can, that’s what makes it dangerous.
