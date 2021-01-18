@@ -166,3 +166,26 @@ It was John, my therapist, who told me, “This stuff does not work for you;” 
 Once I heard that, I was able to ask in response: “How do you know?” And then: “What if it’s not true?”
 
 Manson is right: a self-help industrial _product_ could never do that for someone. When it pretends that it can, that’s what makes it dangerous.
+
+### Adopt or Adapt
+
+We’ve been talking about the two methods for approach self-help material. Taking a “Bad-to-OK” approach means seeking the one thing that self-help can’t ever provide: a way for a person to accept themselves for who they are—a way to become “OK.” Taking an “OK-to-great” approach is about finding bits of knowledge that a person can incorporate into, and thus enhance, their lives. The effect is to burnish their already healthy sense of self-acceptance—they’re not looking for a fix, but to improve and develop themselves. This is why you’ll often see the genre called self-improvement or personal development.
+
+It’s the difference between adopting a system and adapting a system. A self-help book or course is selling a system, a framework of actions and principles that the author has discovered, or perhaps just packaged, in a way that helps them achieve some goal. It’s necessarily personal, which is why it’s called “self-help:” the author is saying, this system helped me do this thing, and it can help you also.
+
+Adoption doesn’t work when it comes to a personal system. A “personal system” is the sum of all the repeatable activities a person takes in pursuit of their life goals. Trying to adopt a system wholesale, to the letter, that somebody else created, necessarily means adopting _their_ personal life goals as well.
+
+The first reason this doesn’t work is that even if two people have very similar goals, they cannot ever be the same. A person’s personality and circumstances are _both_ unique; the combination of the two, which we call “a life,” is doubly unique.
+
+The second reason adoption doesn’t work is that it is inevitably a demonstration of a person’s lack of self-acceptance. Self-acceptance requires having a sense of personal meaning that one can feel good about. If there is no sense of purpose, if a person is deeply unsure about what they’re doing on this planet, then it’s very difficult to accept themselves fully.
+
+I don’t mean to suggest that self-acceptance means certainty, or anything close to it, especially in terms of concrete desires like “working as a staff writer for _The New Yorker_” or even “becoming a journalist.” It has more to do with building a realistic acknowledgement of your strengths and weaknesses, your capabilities and your deficiencies, and feeling satisfied with who you are despite your imperfections and regardless of your past behaviors and choices. It’s a sense that you can go after a goal knowing that if it doesn’t work out, it’s not because you are fundamentally flawed.
+
+For the “Bad-to-OK” set, they’re still working to develop that sense of satisfaction in themselves. That’s why the idea of adopting someone else’s personal-development system, including the goals inherent in the system, is so tantalizing.
+
+When a person is confident about their trajectory in life, they ask themselves, “how can I get where I want to go?” They build habits and physical spaces that will move them in a particular direction. They formulate a set of goals, and their unique system then falls out of those goals, and when their goals inevitably change, they adapt the system to meet the new challenge.
+
+On the other hand, when someone is uncertain about where to go and what to aim for, they’re tempted to seek the system first. Unfortunately, many popular self-help systems encourage this temptation in their marketing. They disregard or wave away the distinction between adopting and adapting. They make it sound like the system will work exactly as specified for anyone who picks it up. They fail to ask the would-be adopter any questions about what brought them to the material. Some systems even promote themselves as “goal-seeking” systems; they explicitly claim the ability to guide a person toward accepting themselves, unlocking their true desires, and discovering their purpose in life.
+
+Yeah, capitalism is a tough racket; _caveat emptor_ and all that. There are plenty of products in all areas of life that pretend to be healthful, when really they cause damage, or are at least capable of being misused. But it’s not impossible to do the right thing.
+
