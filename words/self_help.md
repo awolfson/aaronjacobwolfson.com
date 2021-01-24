@@ -189,3 +189,32 @@ On the other hand, when someone is uncertain about where to go and what to aim f
 
 Yeah, capitalism is a tough racket; _caveat emptor_ and all that. There are plenty of products in all areas of life that pretend to be healthful, when really they cause damage, or are at least capable of being misused. But it’s not impossible to do the right thing.
 
+### Cold Showers For All
+
+What’s the appeal of self-help, anyway? Why, after all of the discouraging experiences I’ve had with it, and after all of the ways it has tripped me up, am I still writing about it? Why am I still buying books and taking courses?
+
+I could cite curiosity, or the lack of anything better to do while stuck in lockdown, but there’s something deeper going on. I think it’s a yearning to make the most of the time that I have in this life. And the way to do that is often to prioritize learning from other people.
+
+Take habit building. This is a crucial skill that forms the foundation of many other skills. In order to get really good at something really hard, you have to practice it a lot, endure a lot of discomfort and frustration, and critically assess your areas of strength and weakness. You could figure out how to do this on your own, with trial and error, and for a select few people, maybe that’s enough.
+
+Most of us, though, benefit from learning from someone who has been through all this before. A coach, a teacher, or a mentor. An author who has spent years studying a problem from every angle. A trainer, a nutritionist, or a therapist. And thus we begin our search.
+
+The self-help marketplace is full of systems for sale. It’s [an $11 billion industry](https://www.webwire.com/ViewPressRel.asp?aId=248507), and it’s fiercely competitive. It’s unregulated. And the measuring stick for what constitutes an effective product is fuzzy. This creates a problem for the consumer. How do we know if a weight loss system works? How do we know if a book about being happier or more confident works? I might know if it works for me, once I try it, but how does a person deciding which book to buy or which class to enroll in know which one to choose?
+
+For the salesperson in such a market, their incentive is to pitch their system as comprehensive and foolproof. This works in part because claims are hard to vet, but it also works because, as consumers, no matter the industry, we’re taught to seek out the all-in-one solution—it slices, it dices, it grants you permanent enlightenment. Accordingly, a system often comes with the promise, either explicit or implied, that if you adopt it wholesale, you will see incredible (yet vague) benefits. You will lose all the weight you’ve ever wanted to lose and keep it off, you will get strong and buff, you will make your life perfectly organized and efficient. Upon close inspection, many self-help marketing messages are incredible only in the original sense of the word: too extraordinary and improbable to be believed.
+
+And yet, despite the difficulty, I do believe it’s possible to find guidance that can help you learn new skills, achieve personal goals, and feel better about your life. You have to be discerning, though, which means avoiding the fallacy that any one system will be everything you want it to be. The only system that can possibly do that is the one you build for yourself.
+
+The way to see benefits from self-help is to _adapt_ lessons from these systems into your personal system. This requires you to put in some work up front. You have to get very specific about what you hope to find. Rather than allowing a system to seduce you into chasing after whatever it’s promising, promise yourself something first. Decide what you want to chase. You choose the direction to strike out in, and you propel yourself forward, blazing a trail if that’s what it will take.
+
+Once you have an orientation and a trajectory in mind, and hopefully some intermediate, tangible, and ambitious goals, you can try things out until you find the systems—or more likely, the pieces of systems—that are trustworthy and that help move you down the path and get you closer to your goals. What you discover to work will depend on both what you are chasing and _who_ you are; just because you find a system that makes the right promises doesn’t mean you’ll be able to do what it asks.
+
+There’s this dude Wim Hof; they call him the Ice Man. He can spend like an entire week floating in an ice cold lake or something. He’s built a whole program around teaching you to use exposure to cold to condition your body. It’s an inventive and provocative idea. His system promises resilience and  mindfulness, and these are things I’d like to pursue.
+
+One of the techniques he advocates is cold showers. When I first learned about this several years ago, I found several people who swear by it; they’d taken to it so well that the cold shower became one of the the highlights of their day. This takes discipline, I thought, and I’d like to have that kind of discipline. What if I’m ever in a situation where there’s no hot water? (The fact that I might plausibly never be in this situation again for the rest of my life is saying something.)
+
+But I resisted the idea of taking cold showers, and it was bothering me. As it turned out, the problem was simple; I love taking hot showers. It was already one of the highlights of my day. It took me some time, but eventually I realized that this tactic just wasn’t for me, and I didn’t need to feel guilty or weak because of that. Cold showers aren’t the exclusive pathway to a resilient mind.
+
+For some people this practice feels right and fits in with their aesthetic, and for others, it doesn’t. This can feel discouraging, but it’s not a matter of moral judgment. Things can always change. You will change. Maybe one day I’ll wake up with a sudden inexplicable urge to take a cold shower. Maybe I’ll decide to try it after I’ve just done a sweaty workout and see if I feel differently.
+
+(But probably not.)
