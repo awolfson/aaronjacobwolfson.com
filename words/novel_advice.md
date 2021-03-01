@@ -1,12 +1,12 @@
 ---
-title: The Timeless Beauty of the Classics: A _Novel Advice_ Book Review
+title: "Novel Advice: The Timeless Beauty of the Classics"
 description: A review of "Novel Advice" by Jay Bushman
 date: 2021-02-28
 tags:
   - book review
 layout: layouts/word.njk
 ---
-_Novel Advice_ is not the first compilation of letters to an advice columnist, nor is it the first in which the columnist adopts an alternate persona. But it is almost certainly the first book in which all of the letters are written by characters in famous novels and plays, and in which the advice columnist is herself a renowned character from Greek mythology. That’s a neat enough trick to hook someone like me: I enjoy a good advice column, but I rarely seek them out.
+[_Novel Advice_](https://www.simonandschuster.com/books/Novel-Advice/Jay-Bushman/9781982156299) is not the first compilation of letters to an advice columnist, nor is it the first in which the columnist adopts an alternate persona. But it is almost certainly the first book in which all of the letters are written by characters in famous novels and plays, and in which the advice columnist is herself a renowned character from Greek mythology. That’s a neat enough trick to hook someone like me: I enjoy a good advice column, but I rarely seek them out.
 
 The letter-writers hail from across the Western canon and beyond. They include both protagonists and villains, the beloved, the infamous, and the inscrutable. Even when the appeals come from the inhabitants of books I dismissed in high school as hopelessly dated, they’re never boring. Credit author Jay Bushman’s knack for pinpointing and exquisitely rendering so many of the most fascinating and relevant conundrums in literature. What makes these people leap off the page, though, is their unique vulnerability: as Bushman points out in the preface, not only are these advice-seekers all in the throes of various thorny dilemmas, but they are also trapped in a meta-dilemma that they’re not even aware of—the fact that they are characters in a story.
 
@@ -54,6 +54,6 @@ Countering this second belief is something _Novel Advice_ does particularly well
 
 The main plot of _Hamlet_ concerns a struggle for the throne of medieval Denmark. This surface description feels obscure and un-relatable. However, that’s not what the _story_ is about; it’s about how to respond when something you feel you’ve earned by rights is denied you. It’s about whether a relationship can work between two lovers from vastly different social strata. And it’s about the nature of existence.
 
-_Moby-Dick_ covers a way of life that is almost totally obsolete. Nobody reading this will have embarked on a three-year voyage aboard a 19th-century whaling vessel. Yet the story remains beloved; people swear by it. Jay Bushman, the author of _Novel Advice_, appeared on an episode of the podcast _Moby Dick Energy_—which, you’re right, _is_ the greatest podcast name ever—during which he stated that _Moby-Dick_ “contains everything.” In other words, it’s not just about a giant fish. Although the whale stuff is part of the charm, there are probably plenty of other books from Melville’s time that traffic in similar tropes. What sets _Moby-Dick_ apart is its timeless insight.
+_Moby-Dick_ covers a way of life that is almost totally obsolete. Nobody reading this will have embarked on a three-year voyage aboard a 19th-century whaling vessel. Yet the story remains beloved; people swear by it. Jay Bushman, the author of _Novel Advice_, appeared on [an episode of the podcast _Moby Dick Energy_](https://www.buzzsprout.com/814783/6788839)—which, you’re right, _is_ the greatest podcast name ever—during which he stated that _Moby-Dick_ “contains everything.” In other words, it’s not just about a giant fish. Although the whale stuff is part of the charm, there are probably plenty of other books from Melville’s time that traffic in similar tropes. What sets _Moby-Dick_ apart is its timeless insight.
 
 That insight is the power that these works exude, across time and space, and in the face of a culture that academizes and fossilizes them. _Novel Advice_ takes the most well-known and compelling characters from these books and strips away their accumulated crust of artifice and cliche, revealing the people beneath in their essence. The characters gripped me through Bushman’s writing the way they never did in school, where they pretty much weren’t given the chance. Here, they are fascinating and ambitious, and, at the same time, vulnerable and afraid and unsure. Human, all too human.

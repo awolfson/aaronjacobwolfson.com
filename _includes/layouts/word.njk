@@ -7,5 +7,22 @@ templateClass: tmpl-word
 
   {{ content | safe }}
 
+  <hr>
+
+  <p>Thanks for reading! If you want more like this, I send out a short newsletter once a week with reflections, new stuff I've written, and links to the best stuff I'm reading.</p>
+
+  <form
+    action="https://buttondown.email/api/emails/embed-subscribe/aaronjacobwolfson"
+    method="post"
+    target="popupwindow"
+    onsubmit="window.open('https://buttondown.email/aaronjacobwolfson', 'popupwindow')"
+    class="embeddable-buttondown-form"
+  >
+    <label for="bd-email">Enter your email</label>
+    <input type="email" name="email" id="bd-email">
+    <input type="hidden" value="1" name="embed"></input>
+    <input type="submit" value="Subscribe"></input>
+  </form>
+
   <p><a href="{{ '/' | url }}">← Home</a></p>
 </div>
