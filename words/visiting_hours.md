@@ -3,8 +3,8 @@ title: Visiting Hours
 description: Entry submitted to the University of Iowa flash fiction contest, April 2020.
 date: 2020-04-26
 tags:
-  - flash-fiction
-  - short-story
+  - flash fiction
+  - short story
 layout: layouts/word.njk
 ---
 It was pouring rain when I left my apartment to catch the bus. And I saw that it was already sitting at the stop; I started running. I was late and visiting hours ended soon. The driver must have seen me: the bus didn’t move.
