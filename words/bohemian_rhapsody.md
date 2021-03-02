@@ -1,7 +1,7 @@
 ---
 title: Bohemian Rhapsody
 description: One man's argument for visiting Prague and avoiding Paris
-date: 2021-03-22
+date: 2021-03-02
 tags:
   - personal
   - essay
